@@ -1,1 +1,2 @@
-# My-Frontend-Journey
+# My-Frontend-Journey 
+HTML CSS JS
