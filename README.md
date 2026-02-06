@@ -1,2 +1,2 @@
 # My-Frontend-Journey 
-HTML CSS JS
+Tech Stacks:- HTML CSS JS
